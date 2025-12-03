@@ -10,3 +10,26 @@ h1 {
 h2 {
     font-weight: 700;
 }
+
+h1 {
+    background-color:skyblue
+}
+
+h2 {
+    background-image:-moz-repeating-linear-gradient()
+}
+
+.ffff {
+    padding:0cm;
+    border:0cqmax;
+    margin:0cqmax;
+}
+
+.aaaa {
+    background-color:brown;
+    width: fit-content ;
+}
+.gggg {
+    background-color:blueviolet;
+    height: min-content;
+}
