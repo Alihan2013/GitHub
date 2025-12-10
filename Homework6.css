@@ -1,0 +1,43 @@
+h1 {
+    width: 100px;
+}
+
+.ffff {
+    background-color: brown;
+    width: 3em;
+    height: 2em;
+}
+
+.dddd {
+    background-color: blue;
+    width: 1em;
+    height: 1em;
+}
+
+.ffff {
+    background-color: brown;
+    width: 2rem;
+    height: 3rem;
+}
+
+
+.ssss {
+    background-color: black;
+    width: 2rem;
+    height: 2rem;
+}
+
+h2 {
+    width: 2%;
+}
+
+
+h1 {
+    background-color: #27e80e96;
+    color: rgb(64, 78, 203);
+}
+
+h2 {
+    background-color: #d6c120;
+    color: rgba(199, 18, 99, 0.812);
+}
