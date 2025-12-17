@@ -1,0 +1,32 @@
+.ffff {
+    display: inline;
+    background-color: aqua;
+}
+
+.dddd {
+    background-color: gold;
+}
+
+.eeee {
+    background-color: lightpink;
+}
+
+.rrrr{
+    display: block;
+    background-color: rgba(251, 243, 6, 0.903);
+}
+
+.gggg{
+    display: block;
+    background-color: aqua;
+}
+
+.llll{
+    display: block;
+    background-color: bisque;
+}
+
+.cccc{
+    display: block;
+    background-color: blueviolet;
+}
