@@ -1,0 +1,56 @@
+.aaaa:active{
+    background-color:gray;
+    color: rgb(0, 0, 0);
+}
+
+.aaaa{
+    background-color: red;
+    color: gray;
+}
+
+.ssss:focus {
+   border-color: #26ff00;
+}
+
+.qqqq:hover{
+    background-color: blue;
+    color: aqua;
+}
+
+.hhhh:first-child {
+    color: #26ff00;
+}
+
+.hhhh:last-child {
+   color: rgba(244, 93, 18, 1);
+}
+
+.vvvv:hover {
+    background-color: burlywood;
+    color: blueviolet;
+}
+
+.mmmm:focus{
+    background-color: violet;
+    color: olive;
+}
+
+.kkkk:first-child{
+    color: lightsalmon;
+}
+
+.kkkk:nth-child(even){
+    color: orangered;
+}
+
+.zzzz:first-child:hover{
+    background-color: tan;
+    color: mediumspringgreen;
+}
+
+.zzzz:last-child:focus{
+    background-color: salmon;
+    color: royalblue;
+}
+
+

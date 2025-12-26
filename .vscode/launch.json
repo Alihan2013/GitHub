@@ -2,11 +2,10 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "type": "msedge",
+      "type": "chrome",
       "request": "launch",
-      "name": "Launch current HTML file in Edge",
-      "file": "${file}",
-      "runtimeExecutable": "C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe"
+      "name": "Launch current HTML file",
+      "file": "${file}"
     }
   ]
 }
