@@ -56,3 +56,144 @@
     color: white;
 }
 
+.conteiner{
+    display: flex;
+    justify-content: space-between;
+    gap: 120px;
+}
+
+.conteiner1 {
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+
+header {
+    background-color: white;
+    margin-bottom: 22px;
+    padding: 20px 48px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1.5px solid #eef0f3;
+    
+}
+
+.header-block {
+    display: flex;
+    align-items: center;
+    gap: 32px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    gap: 48px;
+}
+
+.nav a {
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 20px;
+    color: #242424;
+}
+
+.nav a:active {
+    color: #5856d6;
+}
+
+.nav a:first-child {
+      color: #5856d6;
+}
+
+.Logos {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.btn-secondary{
+    color: white;
+    background-color: #5C53E9;
+    width: 66px;
+    height: 40px;
+    border-radius: 8px;
+    border: none;
+}
+
+.nav1 a {
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 20px;
+    color: #242424;
+}
+.Logos1 {
+    display: flex;
+    align-items: center;
+    gap: 408.15px;
+}
+
+.nav1 {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.nav2 a {
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+.nav2 {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+.header3 {
+    background-color: #111928;
+}
+
+.header4 {
+    background-color:  #111928;
+}
+
+.search-box1 {
+    width: 500px;
+    height: 44px;
+    gap: 10px;
+    border-radius: 8px;
+    padding: 12px;
+    border: 1px solid #DFDFDF;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.search-box1 input {
+    background-color: #111928;
+    border: none;
+    outline: none;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 100%;
+}
+
+.Logos2 {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
