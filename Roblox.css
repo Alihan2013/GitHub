@@ -202,6 +202,7 @@ select {
     background-repeat: no-repeat;
     display: inline-block;
     background-size: 48px 24px;
+    
 }
 
 .jjjj {
@@ -213,4 +214,66 @@ select {
     background-repeat: no-repeat;
     display: inline-block;
     background-size: 48px 24px;
+   
+}
+
+.box2 {
+    display: flex;
+    justify-content: center;
+    border: 1px solid;
+    border-color: white;
+    border-radius: 8px;
+ 
+
+}
+
+.cola {
+    background-color: #D0D9FB14;
+    height: 46px;
+    width: 207.5px;
+    display: flex;
+    justify-content: center;
+    align-self: flex-start;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border: 1px solid;
+    border-color: white;
+    
+
+
+}
+
+.pepsi {
+    background-color: #D0D9FB14;
+    height: 46px;
+    width: 207.5px;
+    display: flex;
+    justify-content: center;
+    align-self: flex-end;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border: 1px solid;
+    border-color: white;
+
+}
+
+.words {
+    height: 67.56px;
+    width: 415px;
+    font-size: 14px;
+    font-weight: 300;
+    margin: 25px;
+    color: #f7f7f8;
+    
+}
+
+.fanta {
+    height: 36px;
+    width: 415px;
+    border-radius: 8px;
+    background-color: grey;    
+    color: black;
+    font-size: 14px;
+    
+    
 }
